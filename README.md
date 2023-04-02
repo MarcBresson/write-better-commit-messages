@@ -1,5 +1,7 @@
 # Write better commit messages
 
+Guidelines and template to write better commit messages
+
 - [Description](#description)
   - [Subject line](#subject-line)
   - [Body](#body)
@@ -10,8 +12,6 @@
 - [Commit template](#commit-template)
   - [Template file](#template-file)
   - [Configure git](#configure-git)
-
-Guidelines and template to write better commit messages
 
 ## Description
 
